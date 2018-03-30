@@ -1,0 +1,7 @@
+D:\00nikit\ACUMATICA\Exercise\4\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+D:\00nikit\ACUMATICA\Exercise\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+D:\00nikit\ACUMATICA\Exercise\4\4\bin\Debug\4.exe.config
+D:\00nikit\ACUMATICA\Exercise\4\4\bin\Debug\4.exe
+D:\00nikit\ACUMATICA\Exercise\4\4\bin\Debug\4.pdb
+D:\00nikit\ACUMATICA\Exercise\4\4\obj\Debug\4.exe
+D:\00nikit\ACUMATICA\Exercise\4\4\obj\Debug\4.pdb
